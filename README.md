@@ -1,9 +1,6 @@
 # UI-UX-Experiment3
 
-## Aim:
-
-## Algorithm:
-
 ## Output:
+[UI UX Exp3 (2).docx](https://github.com/user-attachments/files/23748498/UI.UX.Exp3.2.docx)
 
-## Result:
+## Result:To apply Heuristic Evaluation of an Existing Website or App is completed.
